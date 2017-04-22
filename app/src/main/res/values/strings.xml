@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WSMercancia</string>
+    <string name="impuesto">impuesto</string>
+    <string name="guardar">guardar</string>
+    <string name="listar">listar</string>
+    <string name="mercancia">mercancia</string>
+    <string name="modificar">modificar</string>
+    <string name="eliminar">eliminar</string>
+    <string name="action_settings">action_settings</string>
+    <string name="regresar">regresar</string>
+</resources>
